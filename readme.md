@@ -6,7 +6,7 @@
 ## Contents
 
 - [Tools](#tools)
-- [Documentation][#documentation]
+- [Documentation](#documentation)
 - [Resources](#resources)
 
 ## Tools
