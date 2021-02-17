@@ -17,7 +17,7 @@
 
 ### SaaS
 
-- [DX Scanner](https://dxscanner.io) - Measure, analyze, increase and validate your team’s effectiveness with all detailed data in one place. Discover data that help you facilitate decision making.
+- [DX Scanner Dashboard](https://dxscanner.io) - Measure, analyze, increase and validate your team’s effectiveness with all detailed data in one place. Discover data that help you facilitate decision making.
 
 ## Documentation
 
