@@ -33,6 +33,8 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles. 
+- [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles.
+- [LinkedIn group about Developer Experience](https://www.linkedin.com/groups/9032189/)
 - [Heroku DX](https://www.heroku.com/dx) - Evolving the Developer Experience. Again.
+- [Reddit thread about Developer Experience](https://www.reddit.com/r/DeveloperExperience/)
 - [What is DX](https://developerexperience.io/practices/good-developer-experience) - An article introducing the meaning of Developer Experience.
