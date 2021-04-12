@@ -1,6 +1,6 @@
 # Awesome Developer Experience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Developer Experience resources and tools
+> A curated list of [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources and tools.
 
 ## Contents
 
