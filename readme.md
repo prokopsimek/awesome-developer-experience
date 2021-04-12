@@ -33,8 +33,9 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [WTF is DX](https://developerexperience.io/practices/good-developer-experience) - An article introducing the meaning of Developer Experience.
 - [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles. 
+- [Heroku DX](https://www.heroku.com/dx) - Evolving the Developer Experience. Again.
+- [What is DX](https://developerexperience.io/practices/good-developer-experience) - An article introducing the meaning of Developer Experience.
 
 ## Contribute
 
