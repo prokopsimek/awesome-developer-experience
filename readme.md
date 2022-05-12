@@ -37,6 +37,7 @@
 - [ESLint](https://eslint.org/) - Javascript linter.
 - [Backstage](https://github.com/backstage/backstage) - Platform for building developer portals.
 - [OpenFaas](https://www.openfaas.com/) - Serverless functions framework.
+- [MinIO](https://github.com/minio/minio) - S3-compatible object storage.
 
 ### Version control and releasing
 - [Semantic Versioning](https://semver.org/) - Versioning specification.
@@ -68,7 +69,6 @@
 - [LinearB](https://linearb.io/) - Software delivery intelligence.
 - [Pluralsight Flow](https://www.pluralsight.com/product/flow) - Project workflow dashboard.
 - [Gitpod](https://www.gitpod.io/) - Instant IDE.
-- [MinIO](https://min.io/) - S3-compatible object storage.
 - [AhoyConnect](https://www.ahoyconnect.com/) - Community Data Intelligence Platform.
 - [Moesif](https://www.moesif.com/) - API Analytics.
 - [Codesee](https://www.codesee.io/) - Automatic code diagrams
