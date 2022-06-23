@@ -167,6 +167,7 @@ Books about developer experience.
 Newsletters writing about developer experience, for regular awesomeness.
 
 - [DevRel Weekly](https://devrelweekly.com/) - Developer relations newsletter.
+
 ### Websites
 
 Websites that produce developer experience content.
@@ -183,6 +184,7 @@ Hang out with like-minded DX people.
 
 - [Subreddit about Developer Experience](https://www.reddit.com/r/DeveloperExperience/)
 - [LinkedIn group about Developer Experience](https://www.linkedin.com/groups/9032189/)
+
 ## 🔍 See also
 
 More interesting resources about developer experience.
