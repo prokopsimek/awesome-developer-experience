@@ -1,6 +1,7 @@
 # Awesome Developer Experience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources and tools.
+> Developer Experience is the equivalent of User Experience when the primary user of the product is a developer. DX cares about the developer experience of using a product, its libs, SDKs, documentation, frameworks, open-source solutions, general tools, APIs, etc.
 
 ## Contents
 - [Tools](#tools)
