@@ -1,7 +1,7 @@
 # Awesome Developer Experience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Developer Experience (DX) describes the experience developers have while using or working on your product. A positive developer experience ensures that your developers are happy, satisfied and less likely to leave your team. Improving developer experience ranges from well written documentation, through using the right tooling, up to giving a proper consideration to how developers feel. A developer-first approach.
-
+  
 A curated list of awesome [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources, tools and reading material.
 
 ## Contents
