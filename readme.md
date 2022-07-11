@@ -22,7 +22,6 @@ A curated list of awesome [Developer Experience]((https://developerexperience.io
   - [Articles](#articles)
   - [Books](#books)
   - [Newsletters](#newsletters)
-  - [Reddit](#reddit)
   - [Websites](#websites)
   - [Communities](#communities)
 - [🔍 See also](#-see-also)
