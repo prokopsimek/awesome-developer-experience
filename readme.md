@@ -5,7 +5,7 @@
 A curated list of awesome [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources, tools and reading material.
 
 ## Contents
-- [🧰 Tools](#tools)
+- [🧰 Tools](#-tools)
   - [Open-Source](#open-source)
   - [Version control and releasing](#version-control-and-releasing)
   - [Version management](#version-management)
@@ -17,15 +17,15 @@ A curated list of awesome [Developer Experience]((https://developerexperience.io
   - [Knowledge management](#knowledge-management)
   - [Monitoring](#monitoring)
   - [Automation](#automation)
-- [📃 Documentation](#documentation)
-- [📚 Resources](#resources)
+- [📃 Documentation](#-documentation)
+- [📚 Resources](#-resources)
   - [Articles](#articles)
   - [Books](#books)
   - [Newsletters](#newsletters)
   - [Reddit](#reddit)
   - [Websites](#websites)
   - [Communities](#communities)
-- [🔍 See also](#see-also)
+- [🔍 See also](#-see-also)
 
 ## 🧰 Tools
 
