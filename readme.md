@@ -154,6 +154,8 @@ Articles about developer experience written by the community.
 - [Creating a developer community](https://therecursive.com/creating-a-developer-community-is-a-1-billion-bet-for-tech-companies/)
 - [DX at DAZN](https://getdx.com/podcast/developer-experience-at-dazn)
 - [Why Your API Needs a Dedicated Developer Experience Team](https://nordicapis.com/why-your-api-needs-a-dedicated-developer-experience-team/)
+- [KPIs and metrics for DevRel Programs](https://blog.bitergia.com/2019/05/28/kpis-and-metrics-for-devrel-programs/)
+- [Measuring Developer Relations](https://www.swyx.io/measuring-devrel)
 
 ### Books
 
@@ -176,6 +178,7 @@ Websites that produce developer experience content.
 - [DevRel.jobs](https://www.devrel.jobs/) - Developer relations jobs.
 - [APIs you won't hate](https://apisyouwonthate.com/) - Blog about API design.
 - [daily.dev](https://daily.dev/) - News from developer-focused websites.
+- [Dev Rel Youtube Channel](https://www.youtube.com/c/DevRel) - The home of developer relations on YouTube. Here you'll find videos from the DevRelCon and DevXcon conference series, along with interviews, explainers and more.
 
 ### Communities
 
