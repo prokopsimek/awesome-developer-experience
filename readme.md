@@ -5,13 +5,13 @@
 A curated list of awesome [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources, tools and reading material.
 
 ## Contents
+- [📃 Documentation](#-documentation)
 - [📚 Resources](#-resources)
   - [Articles](#articles)
   - [Books](#books)
   - [Communities](#communities)
   - [Newsletters](#newsletters)
   - [Websites](#websites)
-- [📃 Documentation](#-documentation)
 - [🧰 Tools](#-tools)
   - [API platforms](#api-platforms)
   - [Automation](#automation)
@@ -25,6 +25,16 @@ A curated list of awesome [Developer Experience]((https://developerexperience.io
   - [Version control and releasing](#version-control-and-releasing)
   - [Version management](#version-management)
 - [🔍 See also](#-see-also)
+
+## 📃 Documentation
+
+Documentation best practices and developer experience guidelines.
+
+- [Command Line Interface Guidelines](https://clig.dev/) - Best practices for writing CLI apps.
+- [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles.
+- [Heroku DX](https://www.heroku.com/dx) - Evolving the Developer Experience. Again.
+- [The documentation system](https://documentation.divio.com) - The documentation system outlined here is a simple, comprehensive and nearly universally-applicable scheme.
+- [The Twelve-Factor App](https://12factor.net/) - Recommendations for designing apps.
 
 ## 📚 Resources
 
@@ -70,16 +80,6 @@ Websites that produce developer experience content.
 - [DevRel](https://devrel.co/) - Blog about developer relations.
 - [DevRel.jobs](https://www.devrel.jobs/) - Developer relations jobs.
 - [DevRelX](https://www.devrelx.com/) - Blog and newsletter about developer relations.
-
-## 📃 Documentation
-
-Documentation best practices and developer experience guidelines.
-
-- [Command Line Interface Guidelines](https://clig.dev/) - Best practices for writing CLI apps.
-- [DX Manifesto](https://developerexperiencemanifesto.org) - Basic Developer Experience principles.
-- [Heroku DX](https://www.heroku.com/dx) - Evolving the Developer Experience. Again.
-- [The documentation system](https://documentation.divio.com) - The documentation system outlined here is a simple, comprehensive and nearly universally-applicable scheme.
-- [The Twelve-Factor App](https://12factor.net/) - Recommendations for designing apps.
 
 ## 🧰 Tools
 
