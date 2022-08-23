@@ -102,6 +102,10 @@ Awesome automation to improve your developer experience.
 - [Salt Project](https://saltproject.io/) - Deploy and configuration automation.
 - [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) - Save time and reduce risk by automating dependency updates in software projects.
 
+### Documentation
+
+- [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
+
 ### Knowledge management
 
 Awesome knowledge management systems.
