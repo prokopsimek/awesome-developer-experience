@@ -15,6 +15,7 @@ A curated list of awesome [Developer Experience]((https://developerexperience.io
 - [🧰 Tools](#-tools)
   - [API platforms](#api-platforms)
   - [Automation](#automation)
+  - [Documentation](#documentation)
   - [Knowledge management](#knowledge-management)
   - [Local development](#local-development)
   - [Monitoring](#monitoring)
