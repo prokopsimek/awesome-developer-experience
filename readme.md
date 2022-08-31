@@ -106,6 +106,7 @@ Awesome automation to improve your developer experience.
 ### Documentation
 
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
+- [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
 
 ### Knowledge management
 
