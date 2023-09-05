@@ -167,6 +167,7 @@ Services that have direct impact on developer experience.
 - [Retool](https://retool.com/) - Platform for building internal tools.
 - [SonarQube](https://www.sonarqube.org/) - Static code quality analysis.
 - [Theneo](https://www.theneo.io/) - API documentation tool.
+- [OpenMeter](http://openmeter.io/) - Simplifying usage metering for engineers
 
 ### Security
 
