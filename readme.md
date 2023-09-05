@@ -163,11 +163,12 @@ Services that have direct impact on developer experience.
 - [Gitpod](https://www.gitpod.io/) - Instant IDE.
 - [LinearB](https://linearb.io/) - Software delivery intelligence.
 - [Moesif](https://www.moesif.com/) - API Analytics.
+- [OpenMeter](http://openmeter.io/) - Simplifying usage metering for engineers.
 - [Pluralsight Flow](https://www.pluralsight.com/product/flow) - Project workflow dashboard.
 - [Retool](https://retool.com/) - Platform for building internal tools.
 - [SonarQube](https://www.sonarqube.org/) - Static code quality analysis.
 - [Theneo](https://www.theneo.io/) - API documentation tool.
-- [OpenMeter](http://openmeter.io/) - Simplifying usage metering for engineers
+- [Zeabur](https://zeabur.com) - Deploy full stack services and databases.
 
 ### Security
 
