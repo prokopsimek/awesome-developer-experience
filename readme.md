@@ -129,6 +129,7 @@ Good developer experience starts at the door step.
 - [LocalStack](https://github.com/localstack/localstack) - Local emulator of AWS services.
 - [ngrok](https://ngrok.com/) - Locally available reverse proxy.
 - [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
+- [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 
 ### Monitoring
 
@@ -162,6 +163,7 @@ Services that have direct impact on developer experience.
 - [Gitpod](https://www.gitpod.io/) - Instant IDE.
 - [LinearB](https://linearb.io/) - Software delivery intelligence.
 - [Moesif](https://www.moesif.com/) - API Analytics.
+- [OpenMeter](http://openmeter.io/) - Simplifying usage metering for engineers.
 - [Pluralsight Flow](https://www.pluralsight.com/product/flow) - Project workflow dashboard.
 - [Retool](https://retool.com/) - Platform for building internal tools.
 - [SonarQube](https://www.sonarqube.org/) - Static code quality analysis.
