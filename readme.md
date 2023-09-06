@@ -112,6 +112,7 @@ Awesome automation to improve your developer experience.
 - [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
 - [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
+- [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
 
 ### Knowledge management
 
