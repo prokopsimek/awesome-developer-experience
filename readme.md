@@ -106,13 +106,13 @@ Awesome automation to improve your developer experience.
 
 ### Documentation
 
+- [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
 - [GitBook](https://www.gitbook.com/) - GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration.
 - [ReadMe](https://readme.com/) - Developer hubs that meet your users where they are.
 - [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
 - [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
-- [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
 
 ### Knowledge management
 
