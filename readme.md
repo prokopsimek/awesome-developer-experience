@@ -170,6 +170,7 @@ Services that have direct impact on developer experience.
 - [SonarQube](https://www.sonarqube.org/) - Static code quality analysis.
 - [Theneo](https://www.theneo.io/) - API documentation tool.
 - [Zeabur](https://zeabur.com) - Deploy full stack services and databases.
+- [Watermelon](https://github.com/marketplace/watermelon-context) - Open source copilot for code review
 
 ### Security
 
