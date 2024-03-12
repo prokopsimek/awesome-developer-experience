@@ -158,6 +158,7 @@ Services that have direct impact on developer experience.
 - [AhoyConnect](https://www.ahoyconnect.com/) - Community Data Intelligence Platform.
 - [Apimatic](https://www.apimatic.io/) - API development and documentation platform.
 - [Codesee](https://www.codesee.io/) - Automatic code diagrams.
+- [Clerk](https://www.clerk.com/) - Authentication and user management platform for frameworks like React and Next.js.
 - [deepsource](https://deepsource.io/) - Static code analysis.
 - [Fly](https://fly.io/) - Full stack apps and database hosting.
 - [Fossa](https://fossa.com/) - The most complete open source management and policy engine for enterprise security and compliance.
