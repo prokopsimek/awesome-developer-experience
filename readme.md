@@ -114,6 +114,12 @@ Awesome automation to improve your developer experience.
 - [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
 
+### Integrations
+
+Let data flow through your systems
+- [Airbyte](https://airbyte.com/) - Open-Source ETL Tool
+- [Panora](https://panora.dev/) - Open Source API to add customer customer-facing integrations to your SaaS quickly.
+
 ### Knowledge management
 
 Awesome knowledge management systems.
