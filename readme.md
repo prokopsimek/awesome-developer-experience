@@ -190,8 +190,11 @@ Terminals that are awesome to use and improve productivity.
 
 Happy developers need not fear the release.
 
+- [0ver.org](https://0ver.org/) - ZeroVer: 0-based Versioning.
+- [Calendar Versioning](https://calver.org/) - CalVer is a versioning convention based on your project's release calendar, instead of arbitrary numbers.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Lightweight specification for commit messages.
 - [gitmoji](https://gitmoji.dev/) - Emoji-based commit message convention.
+- [release-please](https://github.com/googleapis/release-please) - Release Please automates CHANGELOG generation, the creation of GitHub releases, and version bumps for your projects.
 - [Semantic Versioning](https://semver.org/) - Versioning specification.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
