@@ -144,6 +144,7 @@ Monitoring that makes developers happy.
 Open-source tools that improve your DX!
 
 - [Backstage](https://github.com/backstage/backstage) - Platform for building developer portals.
+- [Biome](https://github.com/biomejs/biome) - Biome is a fast formatter for JavaScript, TypeScript, JSX, JSON, CSS and GraphQL that scores 97% compatibility with Prettier.
 - [ElasticMQ](https://github.com/softwaremill/elasticmq) - In-memory message queue with an Amazon SQS-compatible interface.
 - [ESLint](https://eslint.org/) - JavaScript linter.
 - [github1s](https://github1s.com/) - Open every GitHub repository in VS Code in browser.
