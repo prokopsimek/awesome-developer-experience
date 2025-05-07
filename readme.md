@@ -109,6 +109,7 @@ Awesome automation to improve your developer experience.
 - [Bump.sh](https://bump.sh/) - Publish user-friendly API documentation portals, centralizing all API docs, whether OpenAPI or AsyncAPI.
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content.
 - [GitBook](https://www.gitbook.com/) - GitBook helps you publish beautiful docs for your users and centralize your teams' knowledge for advanced collaboration.
+- [Mintlify](https://mintlify.com) — Modern standard for public-facing documentation. Beautiful out of the box, easy to maintain, and built to convert users.
 - [ReadMe](https://readme.com/) - Developer hubs that meet your users where they are.
 - [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
 - [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
@@ -130,8 +131,9 @@ Good developer experience starts at the door step.
 - [LocalStack](https://github.com/localstack/localstack) - Local emulator of AWS services.
 - [ngrok](https://ngrok.com/) - Locally available reverse proxy.
 - [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
-- [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 - [EasyInstall](https://github.com/woolflare/EasyInstall) - One-Click Script Installation Assembly.
+- [Fine](https://www.fine.dev/) - Build Software with AI Agents.
+- [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
 
 ### Monitoring
 
