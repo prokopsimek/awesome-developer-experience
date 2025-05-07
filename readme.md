@@ -131,6 +131,7 @@ Good developer experience starts at the door step.
 - [LocalStack](https://github.com/localstack/localstack) - Local emulator of AWS services.
 - [ngrok](https://ngrok.com/) - Locally available reverse proxy.
 - [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
+- [EasyInstall](https://github.com/woolflare/EasyInstall) - One-Click Script Installation Assembly.
 - [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 - [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
 
