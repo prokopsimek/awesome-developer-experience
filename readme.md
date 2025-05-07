@@ -131,6 +131,7 @@ Good developer experience starts at the door step.
 - [ngrok](https://ngrok.com/) - Locally available reverse proxy.
 - [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
 - [Fine](https://www.fine.dev/) - Build Software with AI Agents.
+- [EasyInstall](https://github.com/woolflare/EasyInstall) - One-Click Script Installation Assembly.
 
 ### Monitoring
 
