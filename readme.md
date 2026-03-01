@@ -91,6 +91,7 @@ Good developer experience includes good API usage/design.
 - [Apiary](https://apiary.io/) - API design and documentation platform.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development platform.
 - [Postman](https://www.postman.com/) - API building platform.
+- [Spiderhash](https://spiderhash.io/) - Webhook testing, request inspection, and callback debugging platform for API workflows.
 - [Tyk](https://tyk.io/) - Cloud Native API Management for the modern stack.
 - [Wombat](https://github.com/rogchap/wombat) - Cross-platform gRPC client.
 
