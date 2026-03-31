@@ -1,10 +1,11 @@
 # Awesome Developer Experience [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Developer Experience (DX) describes the experience developers have while using or working on your product. A positive developer experience ensures that your developers are happy, satisfied and less likely to leave your team. Improving developer experience ranges from well written documentation, through using the right tooling, up to giving a proper consideration to how developers feel. A developer-first approach.
-  
-A curated list of awesome [Developer Experience]((https://developerexperience.io/practices/good-developer-experience)) resources, tools and reading material.
+
+A curated list of awesome [Developer Experience](<(https://developerexperience.io/practices/good-developer-experience)>) resources, tools and reading material.
 
 ## Contents
+
 - [📚 Resources](#-resources)
   - [Articles](#articles)
   - [Books](#books)
@@ -29,7 +30,7 @@ A curated list of awesome [Developer Experience]((https://developerexperience.io
 
 ## 📚 Resources
 
-Books, articles, communities and 
+Books, articles, communities and
 
 ### Articles
 
@@ -131,6 +132,7 @@ Good developer experience starts at the door step.
 - [LocalStack](https://github.com/localstack/localstack) - Local emulator of AWS services.
 - [ngrok](https://ngrok.com/) - Locally available reverse proxy.
 - [Tabnine](https://www.tabnine.com/) - Tabnine's powerful Artificial Intelligence assistant works right where you are, in the comfort of your IDE.
+- [Domscribe](https://github.com/patchorbit/domscribe) - Pixel-to-code bridge that captures runtime UI context and maps to source code for AI coding agents via MCP.
 - [EasyInstall](https://github.com/woolflare/EasyInstall) - One-Click Script Installation Assembly.
 - [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 - [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
@@ -212,7 +214,6 @@ Version management made a breeze.
 - [asdf](https://asdf-vm.com/) - Version management for multiple frameworks.
 - [NVM](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active Node.js versions.
 - [rbenv](https://github.com/rbenv/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
-
 
 ## 🔍 See also
 
