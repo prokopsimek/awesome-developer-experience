@@ -103,6 +103,7 @@ Awesome automation to improve your developer experience.
 - [Puppet](https://puppet.com/) - Infrastructure automation.
 - [Salt Project](https://saltproject.io/) - Deploy and configuration automation.
 - [WhiteSource Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) - Save time and reduce risk by automating dependency updates in software projects.
+- [Ivy Tendril](https://tendril.ivy.app) - Open-source AI coding orchestrator for structured, verifiable AI development.
 
 ### Documentation
 
