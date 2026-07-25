@@ -183,6 +183,7 @@ Services that have direct impact on developer experience.
 
 Spend less time searching for vulnerabilities, more time experiencing.
 
+- [Next.js Security Headers Starter](https://github.com/poszothebuilder/nextjs-security-headers-starter) - Copyable security headers, a report-only CSP example, production verification, and rollback guidance for Next.js deployments.
 - [Snyk.io](https://snyk.io) - Automatically find, prioritize and fix vulnerabilities in the open source dependencies used to build your cloud native applications.
 
 ### Terminal
