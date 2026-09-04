@@ -134,6 +134,7 @@ Good developer experience starts at the door step.
 - [EasyInstall](https://github.com/woolflare/EasyInstall) - One-Click Script Installation Assembly.
 - [Fine](https://www.fine.dev/) - Build Software with AI Agents.
 - [Fynix](https://www.fynix.ai/) - Fynix combines real-time AI coding assistance with agent-powered code reviews.
+- [Superagent](https://github.com/pungme/superagent-desktop) - Open-source macOS desktop app that gives Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 
 ### Monitoring
 
