@@ -90,6 +90,7 @@ Good developer experience includes good API usage/design.
 
 - [Apiary](https://apiary.io/) - API design and documentation platform.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development platform.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Postman](https://www.postman.com/) - API building platform.
 - [Tyk](https://tyk.io/) - Cloud Native API Management for the modern stack.
 - [Wombat](https://github.com/rogchap/wombat) - Cross-platform gRPC client.
