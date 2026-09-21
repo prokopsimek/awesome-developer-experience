@@ -114,6 +114,7 @@ Awesome automation to improve your developer experience.
 - [Redocly](https://redocly.com/) - Beautiful API documentation loved by teams and API consumers. Brought to you by the open-source extraordinaires behind Redoc.
 - [RunKit](https://runkit.com/) - RunKit is a node playground in your browser.
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
+- [Sourced](https://sourced.sh) - Generate hosted API docs, TypeScript/Python SDKs, llms.txt and MCP servers from an OpenAPI spec.
 
 ### Knowledge management
 
