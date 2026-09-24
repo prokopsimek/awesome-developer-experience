@@ -178,6 +178,7 @@ Services that have direct impact on developer experience.
 - [Theneo](https://www.theneo.io/) - API documentation tool.
 - [Zeabur](https://zeabur.com) - Deploy full stack services and databases.
 - [Watermelon](https://github.com/marketplace/watermelon-context) - Open source copilot for code review.
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ### Security
 
