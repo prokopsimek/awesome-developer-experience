@@ -92,6 +92,7 @@ Good developer experience includes good API usage/design.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-source API development platform.
 - [Postman](https://www.postman.com/) - API building platform.
 - [Tyk](https://tyk.io/) - Cloud Native API Management for the modern stack.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Public MCP server and API directory for 1,700+ US and Canadian live-music venues.
 - [Wombat](https://github.com/rogchap/wombat) - Cross-platform gRPC client.
 
 ### Automation
